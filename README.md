@@ -1,3 +1,5 @@
+<img width="1351" height="637" alt="image" src="https://github.com/user-attachments/assets/c988d3ec-e742-4542-b1d5-e4397e753bca" />
+
 CIA Circense Harley Dance
 Uma landing page moderna e animada para uma companhia de espetáculos, festas e animações. Construída com React.js e Tailwind CSS, apresenta uma interface elegante, animações suaves e recursos interativos.
 
