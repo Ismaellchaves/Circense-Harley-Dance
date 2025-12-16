@@ -1,36 +1,45 @@
-# Zentry Animated Gaming Landing Page
+CIA Circense Harley Dance
+Uma landing page moderna e animada para uma companhia de espetáculos, festas e animações. Construída com React.js e Tailwind CSS, apresenta uma interface elegante, animações suaves e recursos interativos.
 
-A modern, animated landing page inspired by the official Zentry.com website. Built using React.js and Tailwind CSS, replicating its sleek UI, smooth animations, and interactive features.
+📖 Visão Geral
+Este projeto é uma landing page inspirada no universo do entretenimento e circo, apresentando seções dinâmicas, efeitos de paralaxe e animações ativadas por rolagem. Serve como referência ou ponto de partida para a construção de sites modernos e envolventes para empresas de eventos e animação.
 
-## 📖 Overview
+⚙️ Stack Tecnológico
+Vite
 
-![Preview](./README/preview.gif)
+React.js
 
-This project is a UI/UX clone of Zentry.com, showcasing a gaming/metaverse-inspired landing page with dynamic sections, parallax effects, and scroll-triggered animations. It serves as a reference or starting point for building modern, animated marketing websites.
+Tailwind CSS
 
-## ⚙️ Tech Stack
+🔋 Funcionalidades
+Seção Hero: Apresentação impactante com slogan principal, visuais de fundo e botão de chamada para ação.
 
-- Vite
-- React.js
-- Tailwind CSS
+Destaques dos Serviços: Seções que apresentam serviços como Festas Infantis, Publicidade, Casamentos, Shows e Confraternizações.
 
-## 🔋 Features
+Animações & Efeitos: Efeitos de movimento envolventes usando GSAP e classes do Tailwind CSS.
 
-**Hero Section:** Eye-catching introduction with main tagline, background visuals, and CTA button.
+Elementos de UI Modernos: Grids no estilo "bento", indicadores animados, botões interativos e estruturas de conteúdo em camadas.
 
-**Product Highlights:** Sections showcasing products like Nexus, Vault, Prologue, etc.
+Integração de Áudio: Alternância opcional de áudio de fundo com indicadores visuais animados para maior imersão.
 
-**Parallax & Scroll Animations:** Engaging motion effects using GSAP and Tailwind CSS classes.
+Totalmente Responsivo: Funciona perfeitamente em todos os tamanhos de tela, incluindo desktop, tablet e celular.
 
-**Modern UI Elements:** Bento grids, animated indicators, interactive buttons, and layered content structures.
+Código Limpo: Estrutura baseada em componentes, pensada para reutilização e escalabilidade.
 
-**Audio Integration:** Optional background audio toggle with animated visual indicators for added engagement.
+E muito mais, incluindo arquitetura de código escalável.
 
-**Fully Responsive:** Works smoothly on all screen sizes including desktop, tablet, and mobile.
+📄 Licença
+Este projeto está licenciado sob a Licença MIT.
 
-**Clean Code:** Component-based structure with reusability and scalability in mind.
+🎪 Se quiser adicionar mais detalhes específicos da companhia, pode incluir:
+Sobre a CIA:
 
-and many more, including code architecture and reusability
+A CIA Circense Harley Dance é uma companhia especializada em animação de festas, espetáculos circenses, eventos corporativos e publicidade, transformando qualquer ocasião em uma experiência mágica e inesquecível.
 
-## 📄 License
-> This project is licensed under the MIT License.
+Link de Demonstração:
+
+🔗 Ver Site ao Vivo
+
+Objetivo do Projeto:
+
+Este site foi desenvolvido para apresentar os serviços da companhia de forma moderna e interativa, capturando a essência lúdica e artística do circo em uma experiência digital.
